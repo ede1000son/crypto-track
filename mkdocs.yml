@@ -1,0 +1,15 @@
+site_name: Crypto Track
+repo_url: https://github.com/ede1000son/crypto-track
+repo_name: ede1000son/crypto-track
+edit_uri: tree/main/docs
+
+theme:
+  name: material
+  logo: assets/logo.png
+  favicon: assets/logo.png
+
+markdown_extensions:
+  - attr_list
+
+extra_css:
+  - css/extra.css
